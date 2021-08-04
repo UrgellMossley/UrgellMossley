@@ -1,6 +1,6 @@
 Hello there!
 
-I'm UrgellMossley a normal guy with a passion for coding, and webd evelopment. I have been learning basic web development on and off for the past year or so, and created this repository as a way to monior and share my progress.
+I'm UrgellMossley a normal guy with a passion for coding, and web development. I have been learning basic web development on and off for the past year or so, and created this repository as a way to monior and share my progress.
 
 My aim is to become a full stack web developer. I love working to create interactive and creative web apps, furthermore I am beginning to learn how we can leverage the power of Javasript via Node JS to create our own web servers.
 
